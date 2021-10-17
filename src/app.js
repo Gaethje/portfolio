@@ -387,7 +387,7 @@ Ammo().then((Ammo) => {
         new THREE.MeshPhongMaterial({ color: color }), // side
       ];
 
-      var geometry = new THREE.TextGeometry('RYAN FLOYD', {
+      var geometry = new THREE.TextGeometry('SABIT FAISAL', {
         font: font,
         size: 3,
         height: 0.5,
@@ -1122,7 +1122,7 @@ Ammo().then((Ammo) => {
     floatingLabel(19.125, 4.5, -70, 'LinkedIn');
     floatingLabel(26.875, 4.5, -70, 'Email');
     // floatingLabel(35, 6.5, -70, '  Static \nWebsite');
-    floatingLabel(35, 6.5, -70, '   How I \nmade this');
+    floatingLabel(35, 6.5, -70, 'docs');
     // floatingLabel(44, 6.5, -70, '   How I \nmade this');
 
     allSkillsSection(-50, 0.025, 20, 40, 40, boxTexture.allSkills);
@@ -1152,7 +1152,7 @@ Ammo().then((Ammo) => {
 
     simpleText(23, 0.01, -60, touchText, 1.5);
     simpleText(-50, 0.01, -5, 'SKILLS', 3);
-    simpleText(-42, 0.01, -30, 'EXPERIENCE', 3);
+    simpleText(-50, 0.03, -20, 'EXPERIENCE & CERTIFICATION', 3);
     simpleText(61, 0.01, -15, 'TIMELINE', 3);
 
     wallOfBricks();
