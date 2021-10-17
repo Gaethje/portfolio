@@ -2,11 +2,6 @@
 
 This was my quarantine project! I decided to revamp my portfolio into an interactive 3D world built using [Three.js](https://github.com/mrdoob/three.js) for graphics ( WebGL under the hood) and [Ammo.js](https://github.com/kripken/ammo.js), a port of the [Bullet physics engine](https://pybullet.org/wordpress/) to JavaScript. I had an absolute blast making this!
 
-Try it out! [https://www.ryan-floyd.com/](https://www.ryan-floyd.com/)
-
-I wrote an article explaining the site [here](https://dev.to/mrryanfloyd/create-an-interactive-3d-portfolio-website-that-stands-out-to-employers-47gc)
-
-![alt text](/ryan_floyd_portfolio_gif.gif)
 
 ## Motivation
 
@@ -42,5 +37,3 @@ npm run dev
 ```
 
 ## License
-
-The project is licensed under the MIT License.
